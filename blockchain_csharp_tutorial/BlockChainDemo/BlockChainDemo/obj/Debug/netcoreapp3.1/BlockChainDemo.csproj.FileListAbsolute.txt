@@ -1,0 +1,15 @@
+C:\repos\blockchain\blockchain_csharp_tutorial\BlockChainDemo\BlockChainDemo\bin\Debug\netcoreapp3.1\BlockChainDemo.exe
+C:\repos\blockchain\blockchain_csharp_tutorial\BlockChainDemo\BlockChainDemo\bin\Debug\netcoreapp3.1\BlockChainDemo.deps.json
+C:\repos\blockchain\blockchain_csharp_tutorial\BlockChainDemo\BlockChainDemo\bin\Debug\netcoreapp3.1\BlockChainDemo.runtimeconfig.json
+C:\repos\blockchain\blockchain_csharp_tutorial\BlockChainDemo\BlockChainDemo\bin\Debug\netcoreapp3.1\BlockChainDemo.runtimeconfig.dev.json
+C:\repos\blockchain\blockchain_csharp_tutorial\BlockChainDemo\BlockChainDemo\bin\Debug\netcoreapp3.1\BlockChainDemo.dll
+C:\repos\blockchain\blockchain_csharp_tutorial\BlockChainDemo\BlockChainDemo\bin\Debug\netcoreapp3.1\BlockChainDemo.pdb
+C:\repos\blockchain\blockchain_csharp_tutorial\BlockChainDemo\BlockChainDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\repos\blockchain\blockchain_csharp_tutorial\BlockChainDemo\BlockChainDemo\obj\Debug\netcoreapp3.1\BlockChainDemo.csprojAssemblyReference.cache
+C:\repos\blockchain\blockchain_csharp_tutorial\BlockChainDemo\BlockChainDemo\obj\Debug\netcoreapp3.1\BlockChainDemo.AssemblyInfoInputs.cache
+C:\repos\blockchain\blockchain_csharp_tutorial\BlockChainDemo\BlockChainDemo\obj\Debug\netcoreapp3.1\BlockChainDemo.AssemblyInfo.cs
+C:\repos\blockchain\blockchain_csharp_tutorial\BlockChainDemo\BlockChainDemo\obj\Debug\netcoreapp3.1\BlockChainDemo.csproj.CoreCompileInputs.cache
+C:\repos\blockchain\blockchain_csharp_tutorial\BlockChainDemo\BlockChainDemo\obj\Debug\netcoreapp3.1\BlockChainDemo.csproj.CopyComplete
+C:\repos\blockchain\blockchain_csharp_tutorial\BlockChainDemo\BlockChainDemo\obj\Debug\netcoreapp3.1\BlockChainDemo.dll
+C:\repos\blockchain\blockchain_csharp_tutorial\BlockChainDemo\BlockChainDemo\obj\Debug\netcoreapp3.1\BlockChainDemo.pdb
+C:\repos\blockchain\blockchain_csharp_tutorial\BlockChainDemo\BlockChainDemo\obj\Debug\netcoreapp3.1\BlockChainDemo.genruntimeconfig.cache

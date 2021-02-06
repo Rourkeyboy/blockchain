@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oS9REdhkAkFRXst264OTEOmQH+UjiRc8Y7LrHmGPmyRSXfj0uDiriBZu9nh+QfkmUnxtkjxBLx44hD93PwmIPA==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\blockchain\\blockchain_csharp_tutorial\\BlockChainDemo\\BlockChainDemo\\BlockchainDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rourke\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
